@@ -1,0 +1,4 @@
+gustavo;20
+ana;10
+mario;30
+miguel;50
